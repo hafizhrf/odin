@@ -1,0 +1,3 @@
+# ODIN
+
+Aplikasi inventaris barang
